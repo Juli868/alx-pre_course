@@ -1,0 +1,2 @@
+git fetch origin : to check for any changes in my files on Github and found that the commit code mismatched then
+git pull origin: to get all data from remote server to my computer
